@@ -1,0 +1,16 @@
+{
+  "name": "deeperjs",
+  "version": "1.0.1",
+  "description": "deeper is a  powerful and versatile npm package that provides an advanced deep cloning function for JavaScript objects. It supports the cloning of nested objects, arrays, and handles special cases like Date and RegExp objects. The function is designed to create deep copies of complex data structures, preventing unintended reference sharing. With support for circular references, it ensures a robust and reliable deep cloning solution for a wide range of use cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deep-clone",
+    "deep-copy"
+  ],
+  "author": "Muhammed Fasil K",
+  "license": "ISC"
+}
+
